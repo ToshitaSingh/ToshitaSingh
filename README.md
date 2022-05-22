@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/toshita"><img src="https://github.com/ToshitaSingh/ToshitaSingh/blob/master/devcard.svg" width="400" alt="Toshita Singh's Dev Card"/></a>
+
 <!--
 **ToshitaSingh/ToshitaSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
