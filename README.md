@@ -1,8 +1,8 @@
 # Hi I'm Toshita 👋
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  -->
-<table>
+<!-- <table>
   <tr>
-    <td valign="center">
+    <td valign="center"> -->
       
 - 🎓 I'm currently pursuing my Masters in Computer Applications
       
@@ -18,9 +18,9 @@
 <!-- <td >
       <a href="https://app.daily.dev/toshita"><img src="https://github.com/ToshitaSingh/ToshitaSingh/blob/main/devcard.svg" width="300" alt="Toshita Singh's Dev Card"/></a>
     </td> -->
-    
+<!--     
   </tr>
-  </table>
+  </table> -->
   
 ## Technologies ⚙️
 
