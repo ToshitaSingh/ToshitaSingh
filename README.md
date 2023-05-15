@@ -15,9 +15,9 @@
 - ✨ I'm documenting my journey on the web.
 
       
-<td >
+<!-- <td >
       <a href="https://app.daily.dev/toshita"><img src="https://github.com/ToshitaSingh/ToshitaSingh/blob/main/devcard.svg" width="300" alt="Toshita Singh's Dev Card"/></a>
-    </td>
+    </td> -->
     
   </tr>
   </table>
